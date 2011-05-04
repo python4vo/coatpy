@@ -6,3 +6,5 @@ Introduction
   and the tools and formats of the virtual observatory
   astronomical data in a uniform way.
 
+    volib   :: https://code.google.com/p/pyvolib/
+    vaods9  :: https://github.com/python4vo/vaods9
