@@ -1,0 +1,14 @@
+Installing coatpy
++++++++++++++++++
+
+  Prerequisites
+  =============
+
+    coatpy requires 
+
+  Installation
+  ============
+
+    To install coatpy, simply run:
+
+      python setup.py install

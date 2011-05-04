@@ -1,0 +1,8 @@
+Introduction
+++++++++++++
+
+  coatpy is a package wrapper around a number of other python
+  modules for accessing and working with online astronomy data
+  and the tools and formats of the virtual observatory
+  astronomical data in a uniform way.
+
