@@ -14,6 +14,6 @@ setup(name='COATpy',
       author='anonymouse',
       author_email='onlineastronomy@gmail.com',
       url='',
-      packages=['coatpy'],
+      packages=['coatpy','coatpy.volib'],
       cmdclass = {'build_py':build_py},
      )
